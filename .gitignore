@@ -1,0 +1,19 @@
+# Compiled binaries
+*.out
+sim_bip_dinamico.out
+sim_bip.out
+sim_bip_termo.out
+
+# Object files
+obj/
+*.o
+*.mod
+
+# IDE and OS files
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Python cache (if ML pipeline is added later)
+__pycache__/
+*.pyc
